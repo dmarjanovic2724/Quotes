@@ -1,0 +1,13 @@
+body{
+    background-image: url(images/bg.jpg);
+}
+
+.nav-item:hover{
+    background-color: rgba(28, 85, 117, 0.3);
+  
+  }
+
+  .nav-link {
+    color: blue !important;
+    font-size: 20px !important;
+    }
